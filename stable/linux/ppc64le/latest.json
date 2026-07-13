@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/Degan-Org/degan-ide-studio/releases/download/1.121.04649/DeganStudio-linux-ppc64le-1.121.04649.tar.gz",
-  "name": "1.121.04649",
-  "version": "64d7349304f441e55dda4443c4f8b0d204e2655c",
-  "productVersion": "1.121.4649.0",
-  "hash": "4d8a24ae070a27747a81777fad26308fbdae46e0",
-  "timestamp": "1783878286864",
-  "sha256hash": "4aa4a68551899c851efd3dc882c7f3c941b30a2c7970e2657cc7edb368af1154"
+  "url": "https://github.com/Degan-Org/degan-ide-studio/releases/download/1.121.04658/DeganStudio-linux-ppc64le-1.121.04658.tar.gz",
+  "name": "1.121.04658",
+  "version": "3c33688301aedcc662c89a8ab77e91071e556fb9",
+  "productVersion": "1.121.4658.0",
+  "hash": "3b49479e1e0e038140347a77bb5499bbb066a49f",
+  "timestamp": "1783910427679",
+  "sha256hash": "4993d3f3464545db517c173e8c02892cd9f7b5c859a0cddc5c241b0d7f375591"
 }
