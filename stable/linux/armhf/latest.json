@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/Degan-Org/degan-ide-studio/releases/download/1.121.04658/DeganStudio-linux-armhf-1.121.04658.tar.gz",
-  "name": "1.121.04658",
-  "version": "3c33688301aedcc662c89a8ab77e91071e556fb9",
-  "productVersion": "1.121.4658.0",
-  "hash": "27c10d0ccbd8648ee23c18f1c95e4641b3649b74",
-  "timestamp": "1783910409367",
-  "sha256hash": "9f57c2fcacc962b945e1f127368d18528557b99acc70940631bf8130677e0baf"
+  "url": "https://github.com/Degan-Org/degan-ide-studio/releases/download/1.121.04659/DeganStudio-linux-armhf-1.121.04659.tar.gz",
+  "name": "1.121.04659",
+  "version": "3f01a0cd6b469130d38b118561dd76d1009fdebf",
+  "productVersion": "1.121.4659.0",
+  "hash": "cdac775b7fe2ee2befef7e3599211e36ab17b4c9",
+  "timestamp": "1783913587199",
+  "sha256hash": "22707b9e5dae5cb51ad2755c91b695e301ada4ef1a7f391b8e39bf0bb17a896b"
 }
