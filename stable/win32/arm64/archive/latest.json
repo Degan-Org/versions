@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/Degan-Org/degan-ide-studio/releases/download/1.121.05199/DeganStudio-win32-arm64-1.121.05199.zip",
-  "name": "1.121.05199",
-  "version": "b74f5fec94623c252db90f1d344e11c28451040d",
-  "productVersion": "1.121.5199.0",
-  "hash": "a41da5793213484b9fecbb4d4469525e6acd81ed",
-  "timestamp": "1785861402583",
-  "sha256hash": "367d36d239d9dd188857c2a8e1bd687b1b7ece05a73bc93399936640ca7b48b6"
+  "url": "https://github.com/Degan-Org/degan-ide-studio/releases/download/1.121.05201/DeganStudio-win32-arm64-1.121.05201.zip",
+  "name": "1.121.05201",
+  "version": "8172ca30d4c290aabd32341f42c76ab036de1928",
+  "productVersion": "1.121.5201.0",
+  "hash": "f9bf1e24b13606c0a6c0634c08fe0697d281e185",
+  "timestamp": "1785869298657",
+  "sha256hash": "07b267cc9bc96f0420cc5b356bbf37e1872ffd96324727168a465cae221c0e33"
 }
