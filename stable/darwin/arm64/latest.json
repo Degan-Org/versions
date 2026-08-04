@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/Degan-Org/degan-ide-studio/releases/download/1.121.05186/DeganStudio-darwin-arm64-1.121.05186.zip",
-  "name": "1.121.05186",
-  "version": "7d5bfd12305f5559e8432b38b97bdd58b7929339",
-  "productVersion": "1.121.5186.0",
-  "hash": "1604d8226758fd360bd3e9fb387e20d99397673f",
-  "timestamp": "1785810591883",
-  "sha256hash": "4cade58a0d3e31b08f1d8bb55a70d58cc14acc53abd15117e2313867ce43167d"
+  "url": "https://github.com/Degan-Org/degan-ide-studio/releases/download/1.121.05187/DeganStudio-darwin-arm64-1.121.05187.zip",
+  "name": "1.121.05187",
+  "version": "5dbfeb96f49e1fd35c88db01dd8294aaacaf295d",
+  "productVersion": "1.121.5187.0",
+  "hash": "ca377b49f671e7f1753e9bcd60701f2bd247896f",
+  "timestamp": "1785815712255",
+  "sha256hash": "45993d2bc0c071401fcae7f380ce6376df5fcf4de47462640811b006a2d67ed0"
 }
